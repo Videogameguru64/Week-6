@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "368766921A8F97200026EE69"
-               BuildableName = "MyFavBands.app"
-               BlueprintName = "MyFavBands"
-               ReferencedContainer = "container:MyFavBands.xcodeproj">
+               BuildableName = "MyFavVideoGames.app"
+               BlueprintName = "MyFavVideoGames"
+               ReferencedContainer = "container:MyFavVideoGames.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "368766A91A8F97200026EE69"
-               BuildableName = "MyFavBandsTests.xctest"
-               BlueprintName = "MyFavBandsTests"
-               ReferencedContainer = "container:MyFavBands.xcodeproj">
+               BuildableName = "MyFavVideoGamesTests.xctest"
+               BlueprintName = "MyFavVideoGamesTests"
+               ReferencedContainer = "container:MyFavVideoGames.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "368766A91A8F97200026EE69"
-               BuildableName = "MyFavBandsTests.xctest"
-               BlueprintName = "MyFavBandsTests"
-               ReferencedContainer = "container:MyFavBands.xcodeproj">
+               BuildableName = "MyFavVideoGamesTests.xctest"
+               BlueprintName = "MyFavVideoGamesTests"
+               ReferencedContainer = "container:MyFavVideoGames.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "368766921A8F97200026EE69"
-            BuildableName = "MyFavBands.app"
-            BlueprintName = "MyFavBands"
-            ReferencedContainer = "container:MyFavBands.xcodeproj">
+            BuildableName = "MyFavVideoGames.app"
+            BlueprintName = "MyFavVideoGames"
+            ReferencedContainer = "container:MyFavVideoGames.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "368766921A8F97200026EE69"
-            BuildableName = "MyFavBands.app"
-            BlueprintName = "MyFavBands"
-            ReferencedContainer = "container:MyFavBands.xcodeproj">
+            BuildableName = "MyFavVideoGames.app"
+            BlueprintName = "MyFavVideoGames"
+            ReferencedContainer = "container:MyFavVideoGames.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "368766921A8F97200026EE69"
-            BuildableName = "MyFavBands.app"
-            BlueprintName = "MyFavBands"
-            ReferencedContainer = "container:MyFavBands.xcodeproj">
+            BuildableName = "MyFavVideoGames.app"
+            BlueprintName = "MyFavVideoGames"
+            ReferencedContainer = "container:MyFavVideoGames.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

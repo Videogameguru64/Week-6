@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		366E44E01A9BD5C000B01F22 /* Main1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 366E44DF1A9BD5C000B01F22 /* Main1.jpg */; };
 		368766991A8F97200026EE69 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 368766981A8F97200026EE69 /* AppDelegate.swift */; };
 		3687669B1A8F97200026EE69 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3687669A1A8F97200026EE69 /* MasterViewController.swift */; };
 		3687669D1A8F97200026EE69 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3687669C1A8F97200026EE69 /* DetailViewController.swift */; };
 		368766A01A8F97200026EE69 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3687669E1A8F97200026EE69 /* Main.storyboard */; };
 		368766A21A8F97200026EE69 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 368766A11A8F97200026EE69 /* Images.xcassets */; };
 		368766A51A8F97200026EE69 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 368766A31A8F97200026EE69 /* LaunchScreen.xib */; };
-		368766B11A8F97200026EE69 /* MyFavBandsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 368766B01A8F97200026EE69 /* MyFavBandsTests.swift */; };
 		368766C31A8FA7E70026EE69 /* 38 Special.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368766BB1A8FA7E70026EE69 /* 38 Special.jpg */; };
 		368766C41A8FA7E70026EE69 /* Band Perry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368766BC1A8FA7E70026EE69 /* Band Perry.jpg */; };
 		368766C51A8FA7E70026EE69 /* Eagles.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368766BD1A8FA7E70026EE69 /* Eagles.jpg */; };
@@ -41,18 +41,9 @@
 		BBE4A8141A9AA84100EE14F3 /* XenoBladeC.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBE4A8131A9AA84100EE14F3 /* XenoBladeC.jpg */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		368766AB1A8F97200026EE69 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 3687668B1A8F97200026EE69 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 368766921A8F97200026EE69;
-			remoteInfo = MyFavBands;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		368766931A8F97200026EE69 /* MyFavBands.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFavBands.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		366E44DF1A9BD5C000B01F22 /* Main1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Main1.jpg; sourceTree = "<group>"; };
+		368766931A8F97200026EE69 /* MyFavVideoGames.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFavVideoGames.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		368766971A8F97200026EE69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		368766981A8F97200026EE69 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3687669A1A8F97200026EE69 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -60,9 +51,6 @@
 		3687669F1A8F97200026EE69 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		368766A11A8F97200026EE69 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		368766A41A8F97200026EE69 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		368766AA1A8F97200026EE69 /* MyFavBandsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFavBandsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		368766AF1A8F97200026EE69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		368766B01A8F97200026EE69 /* MyFavBandsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFavBandsTests.swift; sourceTree = "<group>"; };
 		368766BB1A8FA7E70026EE69 /* 38 Special.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "38 Special.jpg"; sourceTree = "<group>"; };
 		368766BC1A8FA7E70026EE69 /* Band Perry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Band Perry.jpg"; sourceTree = "<group>"; };
 		368766BD1A8FA7E70026EE69 /* Eagles.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Eagles.jpg; sourceTree = "<group>"; };
@@ -98,13 +86,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		368766A71A8F97200026EE69 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -113,8 +94,7 @@
 			children = (
 				36BC61C91A90A733001F908B /* icons */,
 				368766BA1A8FA7C50026EE69 /* images */,
-				368766951A8F97200026EE69 /* MyFavBands */,
-				368766AD1A8F97200026EE69 /* MyFavBandsTests */,
+				368766951A8F97200026EE69 /* MyFavVideoGames */,
 				368766941A8F97200026EE69 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -122,13 +102,12 @@
 		368766941A8F97200026EE69 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				368766931A8F97200026EE69 /* MyFavBands.app */,
-				368766AA1A8F97200026EE69 /* MyFavBandsTests.xctest */,
+				368766931A8F97200026EE69 /* MyFavVideoGames.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		368766951A8F97200026EE69 /* MyFavBands */ = {
+		368766951A8F97200026EE69 /* MyFavVideoGames */ = {
 			isa = PBXGroup;
 			children = (
 				368766981A8F97200026EE69 /* AppDelegate.swift */,
@@ -139,6 +118,7 @@
 				368766A31A8F97200026EE69 /* LaunchScreen.xib */,
 				368766961A8F97200026EE69 /* Supporting Files */,
 			);
+			name = MyFavVideoGames;
 			path = MyFavBands;
 			sourceTree = "<group>";
 		};
@@ -150,26 +130,10 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		368766AD1A8F97200026EE69 /* MyFavBandsTests */ = {
-			isa = PBXGroup;
-			children = (
-				368766B01A8F97200026EE69 /* MyFavBandsTests.swift */,
-				368766AE1A8F97200026EE69 /* Supporting Files */,
-			);
-			path = MyFavBandsTests;
-			sourceTree = "<group>";
-		};
-		368766AE1A8F97200026EE69 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				368766AF1A8F97200026EE69 /* Info.plist */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
 		368766BA1A8FA7C50026EE69 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				366E44DF1A9BD5C000B01F22 /* Main1.jpg */,
 				BBE4A8131A9AA84100EE14F3 /* XenoBladeC.jpg */,
 				BBE4A8111A9AA83A00EE14F3 /* FL.jpg */,
 				BBE4A80F1A9AA82F00EE14F3 /* PaperMario.jpg */,
@@ -209,9 +173,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		368766921A8F97200026EE69 /* MyFavBands */ = {
+		368766921A8F97200026EE69 /* MyFavVideoGames */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 368766B41A8F97200026EE69 /* Build configuration list for PBXNativeTarget "MyFavBands" */;
+			buildConfigurationList = 368766B41A8F97200026EE69 /* Build configuration list for PBXNativeTarget "MyFavVideoGames" */;
 			buildPhases = (
 				3687668F1A8F97200026EE69 /* Sources */,
 				368766901A8F97200026EE69 /* Frameworks */,
@@ -221,28 +185,10 @@
 			);
 			dependencies = (
 			);
-			name = MyFavBands;
+			name = MyFavVideoGames;
 			productName = MyFavBands;
-			productReference = 368766931A8F97200026EE69 /* MyFavBands.app */;
+			productReference = 368766931A8F97200026EE69 /* MyFavVideoGames.app */;
 			productType = "com.apple.product-type.application";
-		};
-		368766A91A8F97200026EE69 /* MyFavBandsTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 368766B71A8F97200026EE69 /* Build configuration list for PBXNativeTarget "MyFavBandsTests" */;
-			buildPhases = (
-				368766A61A8F97200026EE69 /* Sources */,
-				368766A71A8F97200026EE69 /* Frameworks */,
-				368766A81A8F97200026EE69 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				368766AC1A8F97200026EE69 /* PBXTargetDependency */,
-			);
-			name = MyFavBandsTests;
-			productName = MyFavBandsTests;
-			productReference = 368766AA1A8F97200026EE69 /* MyFavBandsTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
@@ -256,13 +202,9 @@
 					368766921A8F97200026EE69 = {
 						CreatedOnToolsVersion = 6.1;
 					};
-					368766A91A8F97200026EE69 = {
-						CreatedOnToolsVersion = 6.1;
-						TestTargetID = 368766921A8F97200026EE69;
-					};
 				};
 			};
-			buildConfigurationList = 3687668E1A8F97200026EE69 /* Build configuration list for PBXProject "MyFavBands" */;
+			buildConfigurationList = 3687668E1A8F97200026EE69 /* Build configuration list for PBXProject "MyFavVideoGames" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -275,8 +217,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				368766921A8F97200026EE69 /* MyFavBands */,
-				368766A91A8F97200026EE69 /* MyFavBandsTests */,
+				368766921A8F97200026EE69 /* MyFavVideoGames */,
 			);
 		};
 /* End PBXProject section */
@@ -295,6 +236,7 @@
 				BBE4A80E1A9AA82800EE14F3 /* TheW101.jpg in Resources */,
 				368766C61A8FA7E70026EE69 /* Joe Cocker.jpg in Resources */,
 				BBE4A80C1A9AA81D00EE14F3 /* SuperGalaxy2.jpg in Resources */,
+				366E44E01A9BD5C000B01F22 /* Main1.jpg in Resources */,
 				BB8FAA0D1A9AA7DD00CCD8BD /* Sonic.jpg in Resources */,
 				BBE4A8141A9AA84100EE14F3 /* XenoBladeC.jpg in Resources */,
 				BB8FAA0B1A9AA7D700CCD8BD /* ZeldaOoT.jpg in Resources */,
@@ -317,13 +259,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		368766A81A8F97200026EE69 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -337,23 +272,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		368766A61A8F97200026EE69 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				368766B11A8F97200026EE69 /* MyFavBandsTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		368766AC1A8F97200026EE69 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 368766921A8F97200026EE69 /* MyFavBands */;
-			targetProxy = 368766AB1A8F97200026EE69 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		3687669E1A8F97200026EE69 /* Main.storyboard */ = {
@@ -460,7 +379,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MyFavBands/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = MyFavVideoGames;
 			};
 			name = Debug;
 		};
@@ -470,48 +389,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MyFavBands/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-			};
-			name = Release;
-		};
-		368766B81A8F97200026EE69 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = MyFavBandsTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyFavBands.app/MyFavBands";
-			};
-			name = Debug;
-		};
-		368766B91A8F97200026EE69 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = MyFavBandsTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyFavBands.app/MyFavBands";
+				PRODUCT_NAME = MyFavVideoGames;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3687668E1A8F97200026EE69 /* Build configuration list for PBXProject "MyFavBands" */ = {
+		3687668E1A8F97200026EE69 /* Build configuration list for PBXProject "MyFavVideoGames" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				368766B21A8F97200026EE69 /* Debug */,
@@ -520,20 +405,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		368766B41A8F97200026EE69 /* Build configuration list for PBXNativeTarget "MyFavBands" */ = {
+		368766B41A8F97200026EE69 /* Build configuration list for PBXNativeTarget "MyFavVideoGames" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				368766B51A8F97200026EE69 /* Debug */,
 				368766B61A8F97200026EE69 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		368766B71A8F97200026EE69 /* Build configuration list for PBXNativeTarget "MyFavBandsTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				368766B81A8F97200026EE69 /* Debug */,
-				368766B91A8F97200026EE69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
