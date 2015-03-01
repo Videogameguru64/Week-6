@@ -105,7 +105,7 @@ listArray = ["XenoBladeC","FL","PaperMario","TheW101", "SuperGalaxy2","Tales", "
         let cell = tableView.dequeueReusableCellWithIdentifier("Cell", forIndexPath: indexPath) as UITableViewCell
 
         let object = listArray[indexPath.row] as NSString
-        cell.textLabel?.text = object.description
+        cell.textLabel.text = object.description
         return cell
     }
 
