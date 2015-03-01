@@ -12,22 +12,34 @@
 	<dict>
 		<key>4141FC754F0CF2391573532FC321C70D85B54654</key>
 		<string>https://github.com/ioscourse/Week-6-Screen-Rotation-Master-Detail.git</string>
+		<key>F7DDF8C91461CBCAF419835458301A0C187A0784</key>
+		<string>https://github.com/Videogameguru64/Week-6.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>MyFavBands/MyFavBands.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4141FC754F0CF2391573532FC321C70D85B54654</key>
+		<string>../../../../week6</string>
+		<key>F7DDF8C91461CBCAF419835458301A0C187A0784</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ioscourse/Week-6-Screen-Rotation-Master-Detail.git</string>
+	<string>https://github.com/Videogameguru64/Week-6.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>4141FC754F0CF2391573532FC321C70D85B54654</string>
+	<string>F7DDF8C91461CBCAF419835458301A0C187A0784</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7DDF8C91461CBCAF419835458301A0C187A0784</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Week-6-Screen-Rotation-Master-Detail-master</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

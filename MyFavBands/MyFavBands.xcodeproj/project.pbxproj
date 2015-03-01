@@ -29,6 +29,7 @@
 		36BC61D31A90A777001F908B /* logo402.png in Resources */ = {isa = PBXBuildFile; fileRef = 36BC61D21A90A777001F908B /* logo402.png */; };
 		36BC61D51A90A8AF001F908B /* logo76.png in Resources */ = {isa = PBXBuildFile; fileRef = 36BC61D41A90A8AF001F908B /* logo76.png */; };
 		36BC61D71A90A953001F908B /* logo152.png in Resources */ = {isa = PBXBuildFile; fileRef = 36BC61D61A90A953001F908B /* logo152.png */; };
+		BB32F0441AA2FA1D002AC860 /* Main1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB32F0431AA2FA1D002AC860 /* Main1.jpg */; };
 		BB8FAA091A9AA7D100CCD8BD /* Chrono Trigger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB8FAA081A9AA7D100CCD8BD /* Chrono Trigger.jpg */; };
 		BB8FAA0B1A9AA7D700CCD8BD /* ZeldaOoT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB8FAA0A1A9AA7D700CCD8BD /* ZeldaOoT.jpg */; };
 		BB8FAA0D1A9AA7DD00CCD8BD /* Sonic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB8FAA0C1A9AA7DD00CCD8BD /* Sonic.jpg */; };
@@ -78,6 +79,7 @@
 		36BC61D21A90A777001F908B /* logo402.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo402.png; sourceTree = "<group>"; };
 		36BC61D41A90A8AF001F908B /* logo76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo76.png; sourceTree = "<group>"; };
 		36BC61D61A90A953001F908B /* logo152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo152.png; sourceTree = "<group>"; };
+		BB32F0431AA2FA1D002AC860 /* Main1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Main1.jpg; sourceTree = "<group>"; };
 		BB8FAA081A9AA7D100CCD8BD /* Chrono Trigger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chrono Trigger.jpg"; sourceTree = "<group>"; };
 		BB8FAA0A1A9AA7D700CCD8BD /* ZeldaOoT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ZeldaOoT.jpg; sourceTree = "<group>"; };
 		BB8FAA0C1A9AA7DD00CCD8BD /* Sonic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sonic.jpg; sourceTree = "<group>"; };
@@ -170,6 +172,7 @@
 		368766BA1A8FA7C50026EE69 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				BB32F0431AA2FA1D002AC860 /* Main1.jpg */,
 				BBE4A8131A9AA84100EE14F3 /* XenoBladeC.jpg */,
 				BBE4A8111A9AA83A00EE14F3 /* FL.jpg */,
 				BBE4A80F1A9AA82F00EE14F3 /* PaperMario.jpg */,
@@ -255,6 +258,7 @@
 				TargetAttributes = {
 					368766921A8F97200026EE69 = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = LAK6SGQ7Q5;
 					};
 					368766A91A8F97200026EE69 = {
 						CreatedOnToolsVersion = 6.1;
@@ -295,6 +299,7 @@
 				BBE4A80E1A9AA82800EE14F3 /* TheW101.jpg in Resources */,
 				368766C61A8FA7E70026EE69 /* Joe Cocker.jpg in Resources */,
 				BBE4A80C1A9AA81D00EE14F3 /* SuperGalaxy2.jpg in Resources */,
+				BB32F0441AA2FA1D002AC860 /* Main1.jpg in Resources */,
 				BB8FAA0D1A9AA7DD00CCD8BD /* Sonic.jpg in Resources */,
 				BBE4A8141A9AA84100EE14F3 /* XenoBladeC.jpg in Resources */,
 				BB8FAA0B1A9AA7D700CCD8BD /* ZeldaOoT.jpg in Resources */,
